@@ -19,14 +19,14 @@ body {
   margin: 50px auto;
 }
 
-.link-medium {
+.link-article {
   background-image: linear-gradient(to bottom, rgba(233, 253, 240, 1), rgba(233, 253, 240, 1));
   color: #636363;
   font-weight: lighter;
   font-size: 25px;
   font-style: italic;
 }
-.link-medium:hover {
+.link-article:hover {
   background-image: linear-gradient(to bottom, rgba(125, 255, 179, 1), rgba(125, 255, 179, 1));}
 }
 
